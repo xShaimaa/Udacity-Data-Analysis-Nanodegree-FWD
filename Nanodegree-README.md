@@ -13,10 +13,11 @@ The scholarship consists of 3 main tracks:
 Each project contains detailed README file that cointains an informative description of the projects, its files and how works.
 
 ___
-## Professional Nanodegree Table of contents
+## Projects Table of contents
 
-| No.       | Project                                                    | 
-| ---       | -------                                                    |
-| Project 1 | [Explore US Bikeshare Data](/01-Explore-US-Bikeshare-Data) |
-| Project 2 | [Investigate a Dataset (TMDB)](/02-Investigate-a-dataset)  |
-| Project 3 | [Working with Mock Client](/03-working-with-mock-client)   |
+| No.       | Project                                                    			| 
+| ---       | -------                                                    			|
+| Project 1 | [Explore US Bikeshare Data](/01-Explore-US-Bikeshare-Data) 			|
+| Project 2 | [Investigate a Dataset (TMDB)](/02-Investigate-a-dataset)  			|
+| Project 3 | [Working with Mock Client](/03-working-with-mock-client)   			|
+| Project 4 | [Query Chinook Music Store](/04-Query-a-Digital-Music-Store-Database)	| 
