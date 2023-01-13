@@ -21,6 +21,7 @@ ___
 | Project 2 | [Investigate a Dataset (TMDB)](/02-Investigate-a-dataset)  			|
 | Project 3 | [Working with Mock Client](/03-working-with-mock-client)   			|
 | Project 4 | [Query Chinook Music Store](/04-Query-a-Digital-Music-Store-Database)	| 
+| Project 5 | [Analyze A/B Test Results](/05-Analyze-AB-Test-Results/)				|
 
 ___
 
